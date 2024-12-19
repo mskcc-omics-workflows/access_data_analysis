@@ -2,7 +2,7 @@
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "$id": "https://raw.githubusercontent.com/msk/access_data_analysis/main/nextflow_schema.json",
     "title": "msk/access_data_analysis pipeline parameters",
-    "description": "access data analysis",
+    "description": "access data analysis ",
     "type": "object",
     "$defs": {
         "input_output_options": {
